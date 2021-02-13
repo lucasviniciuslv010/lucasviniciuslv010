@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi, I'm Lucas, welcome to my profile 👋🏿
 
-<!--
-**lucasviniciuslv010/lucasviniciuslv010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm 23 years old, I live in Bahia and I have been studying programming for 1 year
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning Spring Boot, JPA (Hibernate), NoSQL, HTML, and CSS
+
+📌 Skills: Java, Sql, Kotlin, JavaFX, JDBC.
+
+🇧🇷 Born in Salvador, Brazil
+
+### Contact me at
+
+lucasvinicius.lv010@gmail.com
